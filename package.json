@@ -4,5 +4,19 @@
   "description": "Reusable Vue Components built with TailwindCSS",
   "main": "index.js",
   "author": "Wale Alabi",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wtoalabi/vue-tails"
+  },
+  "keywords": [
+    "tailwindcss",
+    "vue",
+    "reusable vue components",
+    "vue-tailwind",
+    "reusable components",
+    "vue components",
+    "tailwind components"
+  ]
 }
+
