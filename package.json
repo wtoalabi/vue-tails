@@ -1,0 +1,8 @@
+{
+  "name": "vue-tails",
+  "version": "1.0.0",
+  "description": "Reusable Vue Components built with TailwindCSS",
+  "main": "index.js",
+  "author": "Wale Alabi",
+  "license": "MIT"
+}
